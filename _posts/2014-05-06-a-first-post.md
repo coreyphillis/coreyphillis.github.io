@@ -4,7 +4,7 @@ title: "Hello World!"
 modified: 2014-05-06 18:33:27 -0700
 tags: [just a test, delete me]
 image: 
-  feature: texture-feature-01.jpg
+  feature: red-rocks-feature.jpg
   credit: Corey Phillis
 ---
 
