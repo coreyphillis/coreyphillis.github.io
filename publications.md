@@ -12,6 +12,8 @@ share:
 ---
 <!--<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>-->
 
+I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk7QAAAAJ&hl=en). My CV is also available as a downloadable [PDF](/papers/CoreyCV.pdf)
+
 ## In Review ##
 
 - **Phillis C.C.**, D.E. Pearse, S.A Hayes, A.B. Cooper, J.W. Moore. *In review*. "Density-mediated effects of rapid evolution on stream ecosystems." <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->
