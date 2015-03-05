@@ -9,7 +9,7 @@ image:
   credit: Corey Phillis
 ---
 
-I am currently a PhD candidate in the [Moore Lab](http://moorelab.wix.com/moorelab), a member of the [Earth to Ocean Research Group](earth2ocean.org) at Simon Fraser University in beautiful British Columbia, Canada.
+I am currently a postdoc in the [Watershed Program](http://www.nwfsc.noaa.gov/research/divisions/fe/wpg/index.cfm) at the Northwest Fisheries Science Center in Seattle , WA.
 
 I am interested in understanding the scales of diversity that are important in ecology. To date, the bulk of theoretical and empirical research on diversity has been focused at the species level, no doubt largely because this is the scale of diversity most readily identifiable and compartmentalized. While this research has greatly advanced our understanding of the relationship between diversity and stability in ecological systems, it seems shortsighted to let the species concept limit our scope of inquiry. The most commonly applied definition of a species (the Biological Species Concept) elevates reproductive isolation as the litmus test, while permitting a great degree of within species diversity (e.g. local adaptation, polyphenisms, life-history diversity) and across species commonality (functional trait redundancy via parallel or convergent evolution). It is the ecological importance and evolutionary origin of these sometimes overlooked scales of diversity that interest me.
 

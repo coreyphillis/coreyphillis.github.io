@@ -20,10 +20,10 @@ I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk
 
 - **Phillis C.C.**, J.W. Moore, M. Buoro, S.A. Hayes, J.C. Garza, D.E. Pearse. 2014. "Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*." PeerJ PrePrints 2:e361v1 [http://dx.doi.org/10.7287/peerj.preprints.361v1](http://dx.doi.org/10.7287/peerj.preprints.361v1) <!---<div data-badge-type="1" data-doi="10.7287/peerj.preprints.361v1" data-hide-no-mentions="true" class="altmetric-embed"></div>-->
 
-- Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W Atlas. *In review*. "Emergent stability in a large free-flowing watershed."<!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->
-  
 
 ## In Print ##
+
+- Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W Atlas. "Emergent stability in a large free-flowing watershed." Ecology 96:340–347. [doi:10.1890/14-0326.1](http://dx.doi.org/10.1890/14-0326.1)[PDF](/papers/Moore_2015_Ecology.pdf).<!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->
 
 - Moore, J.W., T.D. Lambert, W.N. Heady, S.E. Honig, A-M.K. Osterback, **C.C. Phillis**, A.L. Quiros, N.A. Retford, D.B. Herbst. 2014. “Anthropogenic land-use signals propagate through stream food webs in a California, USA, watershed.” Limnologica 46: 124–130. [doi:10.1016/j.limno.2014.01.005.](http://dx.doi.org/10.1016/j.limno.2014.01.005) [PDF](/papers/Moore_2014_Limnologica.pdf) <!--<div data-badge-type="1" data-doi="10.1016/j.limno.2014.01.005" data-hide-no-mentions="true" class="altmetric-embed"></div>-->
 

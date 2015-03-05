@@ -1,41 +1,29 @@
----
-layout: page
-permalink: /cv/
-title: "CV"
-modified: 2014-05-19 16:07
-tags: [curriculum vitae, resume, cacademic career]
-image:
-  feature: 
-  credit: 
-  creditlink: 
-share: 
----
 # Corey C. Phillis #
-Earth to Ocean Research Group  
-Simon Fraser University, Biological Sciences  
-Burnaby, BC, Canada, V5A 1S6  
+Fishery Biologist  
+Fish Ecology Division, Northwest Fisheries Science Center  
+Seattle, WA, Seattle, 98112  
 *Email:* coreyphillis@gmail.com  
 *Website:* http://coreyphillis.github.io  
 *Twitter:* @corey_phillis
 
 # Education #
 
-2011--Present
-:	Ph.D. Candidate, Biological Sciences, Simon Fraser University, Burnaby, Canada\
-	Thesis title: The evolution, ecology, and restoration of anadromy.\
+2008--2014
+:	Ph.D. Biological Sciences, Simon Fraser University, Burnaby, Canada\
+	Ecology & Evolutionary Biology, University of California, Santa Cruz\
+	(transferred to Simon Fraser University in May 2011)\
+:	Thesis title: The evolution, ecology, and restoration of anadromy in rainbow trout/steelhead (*Oncorhynchus mykiss*).  
 	Committee: Jonathan Moore (Supervisor), John Reynolds, Anne Salomon\
-	*Anticipated completion: September 2014.*
-
-2008--2011
-:	Ph.D. Student, Ecology & Evolutionary Biology, University of California, Santa Cruz\
-	(transferred to Simon Fraser University in May 2011)
 
 1998--2003
 :	B.Sc. Marine Biology, University of California, Santa Cruz
 
 # Employment #
 
-2011--Present
+2014--Present
+:	*Fishery Biologist III, NOAA Fisheries, Northwest Fisheries Science Center*  
+
+2011--2014
 :	*Graduate R.A., Simon Fraser University*  
 
 2008--2011
@@ -70,34 +58,32 @@ Burnaby, BC, Canada, V5A 1S6
 
 
 **Phillis C.C.**, D.E. Pearse, S.A Hayes, A.B. Cooper, J.W. Moore. 
-"Density-mediated effects of rapid evolution on stream ecosystems. "In review: *Ecology*. \
+"Density-mediated effects of rapid evolution on stream ecosystems." In review: *Ecology*. \
 
 
 **Phillis C.C.**, J.W. Moore, M. Buoro, S.A. Hayes, J.C. Garza, D.E. Pearse.
-"Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*. "In review: *PLOS ONE.* \
+"Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*." Accepted, pending revisions: *PLOS ONE.* \
 (Available at PeerJ PrePrints http://dx.doi.org/10.7287/peerj.preprints.361v1.) \
-
-
-Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W. Atlas. "Emergent stability in a large free-flowing watershed." In review: *Ecology Reports*.
 
 
 ## Published ##
 
+Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W. Atlas. "Emergent stability in a large free-flowing watershed." *Ecology* 96:340–347. http://dx.doi.org/10.1890/14-0326.1.\
 
-Moore, J.W., T.D. Lambert, W.N. Heady, S.E. Honig, A-M.K. Osterback, **C.C. Phillis**, A.L. Quiros, N.A. Retford, D.B. Herbst. 2014. âAnthropogenic land-use signals propagate through stream food webs in a California, USA, watershed.â Limnologica 46: 124â130. doi:10.1016/j.limno.2014.01.005.\
+
+Moore, J.W., T.D. Lambert, W.N. Heady, S.E. Honig, A-M.K. Osterback, **C.C. Phillis**, A.L. Quiros, N.A. Retford, D.B. Herbst. 2014. “Anthropogenic land-use signals propagate through stream food webs in a California, USA, watershed.” *Limnologica* 46: 124–130. doi:10.1016/j.limno.2014.01.005.\
 
 
 Favaro, B., D.C. Braun, **Earth2Ocean Research Derby**. 2013. 
-âThe âResearch Derbyâ: a pressure cooker for creative and collaborative science.â Ideas in Ecology and Evolution 6 (1). http://doi:10.4033/iee.2013.6.9.n.\
+“The ‘Research Derby’: a pressure cooker for creative and collaborative science.” *Ideas in Ecology and Evolution* 6 (1). http://doi:10.4033/iee.2013.6.9.n.\
 
 
-**Phillis, C.C.<sup>\*</sup>**, S.M. OâRegan<sup>\*</sup>, S.J. Green<sup>\*</sup>, J.E.B. Bruce<sup>\*</sup>, S.C. Anderson, J.N. Linton, Earth2Ocean Research Derby, B. Favaro. "Multiple pathways to conservation success." Conservation Letters. 6(2): 98-106. http://doi.org/10.1111/j.1755-263X.2012.00294.x.\
+**Phillis, C.C.<sup>\*</sup>**, S.M. O’Regan<sup>\*</sup>, S.J. Green<sup>\*</sup>, J.E.B. Bruce<sup>\*</sup>, S.C. Anderson, J.N. Linton, Earth2Ocean Research Derby, B. Favaro. "Multiple pathways to conservation success." *Conservation Letters* 6(2): 98-106. http://doi.org/10.1111/j.1755-263X.2012.00294.x.\
 (<sup>\*</sup>Authors contributed equally, listed in reverse alphabetical order)\
 
 
 **Phillis, C.C.**, D.J. Ostrach, B.L. Ingram, P.K. Weber. 2011. 
-âEvaluating otolith Sr/Ca as a tool for reconstructing estuarine habitat use.â 
-Canadian Journal of Fisheries and Aquatic Sciences 68 (2): 360â73. doi:10.1139/F10-152.\
+“Evaluating otolith Sr/Ca as a tool for reconstructing estuarine habitat use.” *Canadian Journal of Fisheries and Aquatic Sciences* 68 (2): 360–73. doi:10.1139/F10-152.\
 
 
 ## In Preparation ##
@@ -108,7 +94,7 @@ Canadian Journal of Fisheries and Aquatic Sciences 68 (2): 360â73. doi:10.1
 
 
 **Phillis, C.C.** & J.W. Moore. 
-"Dam evolution: An Individual-Based Model of the evolution of anadromy in response to migration barriers, bad ocean years, and other things that can go wrong when salmon leave home".\
+"Dam evolution: An Individual-Based Model of evolution of anadromy in response to changing costs of migration".\
 
 
 # Teaching Experience #
@@ -213,7 +199,7 @@ Fall 2009
 
 2006
 :	CALFED Biennial Science Conference, Sacramento, CA\
-	"A novel method to develop an otolith microchemistry model to determine Striped Bass Habitat Use in the San Francisco Estuary"\
+	"A novel method to develop an otolith microchemistry model to determine Striped Bass Habitat Use in the San Francisco Estuary"
 
 2005
 :	American Geophysical Union, San Francisco, CA\
@@ -231,7 +217,7 @@ Fall 2009
 
 # Refereed Journals #
 
-Ecological Applications, Journal of Fish Biology, Functional Ecology
+Ecological Applications, Journal of Fish Biology, Limnology & Oceanography, Functional Ecology
 
 # Selected Courses #
 
@@ -256,13 +242,32 @@ Ecological Applications, Journal of Fish Biology, Functional Ecology
 2001
 :	Quantitative Ecology for Conservation Biology. Dan Doak. University of California, Santa Cruz
 
-# Training #
+# Toolkit #
 
 My workflow involves `R` for data manipulation, statistical analyses, and data presentation, Markdown for composition, RMarkdown for integrating analysis and composition, knitr for pulling it all together, pandoc for exporting to various file types (.tex, .pdf, .docx, etc.), and Git/GitHub for keeping track of it all. I have a working knowledge of JAGS, LaTeX, C++/Rcpp. 
 
 
+# Professional References #
+
+**Jonathan Moore**
+:	Assistant Professor,\
+	Simon Fraser University\
+	Tel: 778--782--9246\
+	Email: jwmoore@sfu.ca
+
+**Peter Weber**
+:	Staff Scientist and NanoSIMS Lab Lead Scientist,\
+	Lawrence Livermore National Laboratory\
+	Tel: 925--422--3018\
+	Email: weber21@llnl.gov 
 
 
+**Devon Pearse**
+:	Research Geneticist,\
+	Fisheries Ecology Division, Southwest Fisheries Science Center, NOAA *&*\
+	Institute of Marine Sciences, University of California\
+	Tel: 831--420--3906\
+	Email: devon.pearse@noaa.gov
 
 
 
