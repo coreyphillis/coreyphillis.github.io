@@ -6,7 +6,7 @@ image:
 ---
 Welcome!
 ============
-I am currently a PhD candidate in the [Moore Lab](http://moorelab.wix.com/moorelab), a member of the [Earth to Ocean Research Group](earth2ocean.org) at Simon Fraser University in beautiful British Columbia, Canada.
+I am currently a postdoc in the [Watershed Program](http://www.nwfsc.noaa.gov/research/divisions/fe/wpg/index.cfm) at the Northwest Fisheries Science Center in Seattle , WA.
 
 Interests
 -----------------
