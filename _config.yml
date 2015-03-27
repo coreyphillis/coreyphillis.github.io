@@ -6,11 +6,10 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Corey C. Phillis
-  avatar:         bio-photo.jpg
-  bio:            "Ecology, Evolution, Migration, and Salmon.
-  Postdoc at the NOAA Fisheries NWFSC"
-  email:          coreyphillis@gmail.com
+  name: Corey C. Phillis
+  avatar: bio-photo.jpg
+  bio: "Ecology, Evolution, Migration, and Salmon. Postdoc at the NOAA Fisheries NWFSC"
+  email: coreyphillis@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: corey_phillis
   #facebook:       
