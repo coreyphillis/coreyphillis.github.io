@@ -13,7 +13,9 @@ share:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk7QAAAAJ&hl=en). My CV is also available as a downloadable [PDF](/papers/CoreyCV.pdf)
-<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div>
+
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/nature.2012.9872"></div> 
+
 ## In Review ##
 
 - **Phillis C.C.** & J.W. Moore. *In review*. "Dam evolution: an individual-based model of the evolution of anadromy in a steelhead/rainbow trout population."
