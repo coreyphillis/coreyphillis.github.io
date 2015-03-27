@@ -11,7 +11,6 @@ image:
 share: 
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<body link=#2c7bb6>
 
 I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk7QAAAAJ&hl=en). My CV is also available as a downloadable [PDF](/papers/CoreyCV.pdf)
 
@@ -38,5 +37,3 @@ I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk
 - <div data-badge-type="1" data-doi="10.1139/F10-152" data-hide-no-mentions="true" class="altmetric-embed"></div>**Phillis, C.C.**, D.J. Ostrach, B.L. Ingram, P.K. Weber. 2011. [“Evaluating otolith Sr/Ca as a tool for reconstructing estuarine habitat use.”](/papers/Phillis_2011_CJFAS.pdf) Canadian Journal of Fisheries and Aquatic Sciences 68 (2): 360–73. [doi:10.1139/F10-152.](http://www.nrcresearchpress.com/doi/abs/10.1139/F10-152)
 
 
-
-<\body>
