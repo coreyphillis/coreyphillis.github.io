@@ -10,7 +10,7 @@ image:
   creditlink: 
 share: 
 ---
-<!--<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>-->
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk7QAAAAJ&hl=en). My CV is also available as a downloadable [PDF](/papers/CoreyCV.pdf)
 
