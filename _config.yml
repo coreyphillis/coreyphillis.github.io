@@ -1,8 +1,9 @@
-title:            coreyphillis
-description:      Describe your website.
+title: coreyphillis
+description: Describe your website.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:                http://coreyphillis.github.io/ # http://localhost:4000
-disqus_shortname: 
+url: http://coreyphillis.github.io/ 
+# http://localhost:4000
+
 
 # Owner/author information
 owner:
@@ -10,6 +11,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Ecology, Evolution, Migration, and Salmon. Postdoc at the NOAA Fisheries NWFSC"
   email: coreyphillis@gmail.com
+  disqus_shortname: 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: corey_phillis
   #facebook:       
