@@ -20,12 +20,14 @@ I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk
 
 - <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis C.C.**, D.E. Pearse, S.A Hayes, A.B. Cooper, J.W. Moore. *In review*. "Density-mediated effects of rapid evolution on stream ecosystems." 
 
-- <!---<div data-badge-type="1" data-doi="10.7287/peerj.preprints.361v1" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis C.C.**, J.W. Moore, M. Buoro, S.A. Hayes, J.C. Garza, D.E. Pearse. 2014. ["Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*."](https://peerj.com/preprints/361.pdf) PeerJ PrePrints 2:e361v1 [http://dx.doi.org/10.7287/peerj.preprints.361v1](http://dx.doi.org/10.7287/peerj.preprints.361v1)
+- <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>--> Johnson, R.C., J.G. Garza, R.B. MacFarlane, C.B. Grimes, **C.C. Phillis**, P.L. Koch, P.K. Weber, M.H. Carr. *Accepted*. "Isotopes and genes reveal freshwater origins of Chinook salmon (*Oncorhynchus tshawytscha*) aggregations in California’s coastal ocean." Marine Ecology Progress Series.
 
 
 ## In Print ##
 
-- <div data-badge-type="1" data-doi="10.1890/14-0326.1" data-hide-no-mentions="true" class="altmetric-embed"></div>Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W Atlas. ["Emergent stability in a large free-flowing watershed."](/papers/Moore_2015_Ecology.pdf) Ecology 96:340–347. [doi:10.1890/14-0326.1](http://dx.doi.org/10.1890/14-0326.1)
+- <div data-badge-type="1" data-doi="10.1093/jhered/esv085" data-hide-no-mentions="true" class="altmetric-embed"></div>**Phillis, C.C**, J.W. Moore, M. Buoro, S.A. Hayes, J.C. Garza, and D.E. Pearse. 2016. ["Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*."](/papers/Phillis_2015_JoH.pdf) Journal of Heredity, Advance Access. [doi:10.1093/jhered/esv085](http://jhered.oxfordjournals.org/content/early/2015/11/18/jhered.esv085.full)
+
+- <div data-badge-type="1" data-doi="10.1890/14-0326.1" data-hide-no-mentions="true" class="altmetric-embed"></div>Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W Atlas. 2015. ["Emergent stability in a large free-flowing watershed."](/papers/Moore_2015_Ecology.pdf) Ecology 96:340–347. [doi:10.1890/14-0326.1](http://dx.doi.org/10.1890/14-0326.1)
 
 - <div data-badge-type="1" data-doi="10.1016/j.limno.2014.01.005" data-hide-no-mentions="true" class="altmetric-embed"></div>Moore, J.W., T.D. Lambert, W.N. Heady, S.E. Honig, A-M.K. Osterback, **C.C. Phillis**, A.L. Quiros, N.A. Retford, D.B. Herbst. 2014. [“Anthropogenic land-use signals propagate through stream food webs in a California, USA, watershed.”](/papers/Moore_2014_Limnologica.pdf) Limnologica 46: 124–130. [doi:10.1016/j.limno.2014.01.005.](http://dx.doi.org/10.1016/j.limno.2014.01.005) 
 
