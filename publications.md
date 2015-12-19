@@ -25,7 +25,7 @@ I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk
 
 ## In Print ##
 
-- <div data-badge-type="1" data-doi="10.1093/jhered/esv085" data-hide-no-mentions="true" class="altmetric-embed"></div>**Phillis, C.C**, J.W. Moore, M. Buoro, S.A. Hayes, J.C. Garza, and D.E. Pearse. 2016. ["Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*."](/papers/Phillis_2015_JoH.pdf) Journal of Heredity, Advance Access. [doi:10.1093/jhered/esv085](http://jhered.oxfordjournals.org/content/early/2015/11/18/jhered.esv085.full)
+- <div data-badge-type="1" data-doi="10.1093/jhered/esv085" data-hide-no-mentions="true" class="altmetric-embed"></div>**Phillis, C.C**, J.W. Moore, M. Buoro, S.A. Hayes, J.C. Garza, and D.E. Pearse. 2016. ["Shifting thresholds: rapid evolution of migratory life histories in steelhead/rainbow trout, *Oncorhynchus mykiss*."](http://jhered.oxfordjournals.org/content/107/1/51.full.pdf) Journal of Heredity 107(1) 51:60. doi:10.1093/jhered/esv085 
 
 - <div data-badge-type="1" data-doi="10.1890/14-0326.1" data-hide-no-mentions="true" class="altmetric-embed"></div>Moore J.W., M.P. Beakes, H.K. Nesbitt, J.D. Yeakel, D.A. Patterson, L.A. Thompson, **C.C. Phillis**, D.C. Braun, C. Favaro, D. Scott, C. Carr-Harris, W Atlas. 2015. ["Emergent stability in a large free-flowing watershed."](/papers/Moore_2015_Ecology.pdf) Ecology 96:340–347. [doi:10.1890/14-0326.1](http://dx.doi.org/10.1890/14-0326.1)
 
