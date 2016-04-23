@@ -19,9 +19,9 @@ I have a [Google Scholar profile](http://scholar.google.com/citations?user=ViFKk
 - <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis, C.C.**, J.W. Moore, M.P. Beakes, C. Favaro, H.K. Nesbitt, E.P. Palkovacs, G.R. Pess. 
 "Restoration of anadromy: recovering lost migratory behavior in coastal fishes."
 
-- <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis C.C.** & J.W. Moore. *In review*. "Dam evolution: an individual-based model of the evolution of anadromy in a steelhead/rainbow trout population."
+- <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis C.C.** & J.W. Moore. "Dam evolution: an individual-based model of the evolution of anadromy in a steelhead/rainbow trout population."
 
-- <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis C.C.**, D.E. Pearse, S.A Hayes, A.B. Cooper, J.W. Moore. *In review*. "Density-mediated effects of rapid evolution on stream ecosystems." 
+- <!--<div data-badge-type="1" data-doi="NULL" data-hide-no-mentions="true" class="altmetric-embed"></div>-->**Phillis C.C.**, D.E. Pearse, S.A Hayes, A.B. Cooper, J.W. Moore. "Density-mediated effects of rapid evolution on stream ecosystems." 
 
 
 
